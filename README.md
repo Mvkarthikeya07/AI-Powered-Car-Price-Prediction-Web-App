@@ -175,6 +175,10 @@ M V Karthikeya
 Aspiring Machine Learning Engineer
 Python | Machine Learning | Flask
 
+ 📜 License
+
+This project is licensed under the MIT License.
+
 ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
