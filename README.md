@@ -145,6 +145,40 @@ Add screenshots inside a /screenshots folder and reference them here.
 <img src="screenshots/home.png" width="800">
 <img src="screenshots/result.png" width="800">
 
+📄 Research Publication
+
+The research work associated with this project has been published in a peer-reviewed journal.
+
+Title:
+Machine Learning–Based Automobile Price Prediction System
+
+Journal:
+International Journal of Research and Analytical Reviews (IJRAR)
+
+Publication Link:
+https://www.ijrar.org/viewfull.php?p_id=IJRAR25D2970
+
+This publication presents the theoretical background, dataset analysis, and model evaluation, while the current project emphasizes real-time deployment and system implementation.
+
+🏢 Internship Context
+
+This project was developed during my AI/ML Internship at InternPe
+(Nov 24, 2025 – Dec 21, 2025).
+
+The work focused on applying practical machine learning concepts learned during the internship, including:
+
+Real-world data preprocessing and feature engineering
+
+Supervised regression modeling
+
+Backend development using Flask
+
+Real-time ML model deployment
+
+Robust system design with fallback mechanisms
+
+This project represents academic and practical work completed during the internship period, emphasizing industry-relevant ML deployment practices.
+
 📚 What I Learned
 
 Cleaning and preprocessing real-world datasets
